@@ -39,3 +39,8 @@ class App extends React.Component {
 }
 
 export default App;
+
+// Resources for deployment
+// https://raquelmsmith.com/blog/how-to-deploy-create-react-app-to-github-pages/
+// https://stackoverflow.com/questions/54420160/404-issue-with-a-react-project-deployed-with-github-pages
+// https://www.freecodecamp.org/news/how-to-deploy-a-react-application-to-netlify-363b8a98a985/
